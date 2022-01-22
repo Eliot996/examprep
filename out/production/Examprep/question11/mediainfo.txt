@@ -1,0 +1,6 @@
+Audio{name='audio', duration=10.2, loudness=1.0}
+Audio{name='audio1', duration=10.3, loudness=2.0}
+Audio{name='audio2', duration=10.4, loudness=3.0}
+Audio{name='video', duration=11.1, aspectRatio=4:3}
+Audio{name='video1', duration=11.2, aspectRatio=16:9}
+Audio{name='video2', duration=11.3, aspectRatio=2:1}
